@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Moore",
+    "age": 93,
+    "address": {
+        "street": "Carey Vista",
+        "city": "West Christian",
+        "state": "New Mexico",
+        "zip": "73899"
+    },
+    "contact": {
+        "phone": "563-434-0020",
+        "servicePhone": "800667355"
+    },
+    "birthday": "1932-07-11",
+    "ip": "14.35.146.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact argue PM high this budget daughter. Sure third politics professor. Issue police capital person treatment.\nInto fast sometimes front letter way. Seat end safe company professor join start.",
+        "bio": "Answer together full happen hand. Garden table policy size human technology pull.\nThemselves option campaign also same. She yes about court. Skill TV maintain carry next newspaper."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
