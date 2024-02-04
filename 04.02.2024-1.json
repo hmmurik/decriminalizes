@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Ellis",
+    "age": 91,
+    "address": {
+        "street": "Olivia Row",
+        "city": "West William",
+        "state": "Montana",
+        "zip": "49964"
+    },
+    "contact": {
+        "phone": "+1-334-646-7175",
+        "servicePhone": "800797721"
+    },
+    "birthday": "1934-19-08",
+    "ip": "165.91.7.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Take himself still speak manager. Score bit high dark. Fight pull everything.\nSong throughout parent answer. Chair product six reach center policy act.",
+        "bio": "Everyone decide heavy message. Participant design light truth camera identify.\nTraditional movement hot according from. Miss though base team last chance. Section do response control follow avoid."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
