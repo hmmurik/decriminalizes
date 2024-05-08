@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Medina",
+    "age": 71,
+    "address": {
+        "street": "Reynolds Vista",
+        "city": "Williamtown",
+        "state": "Maryland",
+        "zip": "67870"
+    },
+    "contact": {
+        "phone": "001-877-387-0732x4371",
+        "servicePhone": "800644835"
+    },
+    "birthday": "1954-29-07",
+    "ip": "145.222.255.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea realize fire exist foot friend great. Short enter just return. Nation there tough kind race perform bring.",
+        "bio": "Piece would sit. Hour no challenge authority buy according debate that. Loss kitchen article yourself that country."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
