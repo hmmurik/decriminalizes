@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Blankenship",
+    "age": 24,
+    "address": {
+        "street": "Patricia Prairie",
+        "city": "Barbarashire",
+        "state": "North Dakota",
+        "zip": "88877"
+    },
+    "contact": {
+        "phone": "(719)699-0770",
+        "servicePhone": "800926411"
+    },
+    "birthday": "2001-19-06",
+    "ip": "223.169.217.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Call hot huge sign seem model most. Since require station. Long son site sort task. Situation after where responsibility win stand main.",
+        "bio": "Girl I degree great question. About draw anyone night cold any new."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
