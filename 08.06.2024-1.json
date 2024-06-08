@@ -1,0 +1,25 @@
+{
+    "name": "John Anderson",
+    "age": 71,
+    "address": {
+        "street": "Andrea Field",
+        "city": "New Harry",
+        "state": "Kentucky",
+        "zip": "24341"
+    },
+    "contact": {
+        "phone": "213.236.5020x04330",
+        "servicePhone": "800924138"
+    },
+    "birthday": "1954-03-04",
+    "ip": "143.171.96.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting lose others sense magazine. Try push end prevent born best kid.\nBehavior until research number. Economy economic can common all.",
+        "bio": "Guy short either resource beautiful. Wear perhaps audience he throw hotel. Test others seek clearly site."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
