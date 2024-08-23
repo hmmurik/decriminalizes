@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cummings",
+    "age": 23,
+    "address": {
+        "street": "Hodges Villages",
+        "city": "South William",
+        "state": "Hawaii",
+        "zip": "24216"
+    },
+    "contact": {
+        "phone": "9098575383",
+        "servicePhone": "800414519"
+    },
+    "birthday": "2002-28-05",
+    "ip": "71.55.228.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Must man whose election race better at. Certain hand important city Congress.",
+        "bio": "Ago send design still film. The seven during fly event attorney. Share image cause box according scene."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
