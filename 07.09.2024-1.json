@@ -1,0 +1,25 @@
+{
+    "name": "Janet Johnson",
+    "age": 90,
+    "address": {
+        "street": "Johnson Stream",
+        "city": "East Cherylborough",
+        "state": "Louisiana",
+        "zip": "08247"
+    },
+    "contact": {
+        "phone": "558.502.8788x0541",
+        "servicePhone": "800414959"
+    },
+    "birthday": "1935-24-12",
+    "ip": "34.13.69.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Case model enjoy ability forward decision. Kid general become scene push leader. Maintain hold girl realize somebody occur newspaper end.\nDark support break between though. Avoid respond because.",
+        "bio": "Customer oil among. Interesting sing keep his eight spring. His democratic energy several.\nManagement southern agency kid seem matter white when. Away magazine day."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
