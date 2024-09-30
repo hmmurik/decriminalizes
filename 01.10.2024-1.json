@@ -1,0 +1,25 @@
+{
+    "name": "Robert Austin",
+    "age": 11,
+    "address": {
+        "street": "Galvan Islands",
+        "city": "Kristenland",
+        "state": "Tennessee",
+        "zip": "91730"
+    },
+    "contact": {
+        "phone": "316-806-3073",
+        "servicePhone": "800575567"
+    },
+    "birthday": "2014-22-12",
+    "ip": "88.67.144.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Station occur about good energy collection. Laugh policy thought none. Political station lay adult add agree.",
+        "bio": "Star military need mission. Home least get sell. Experience after traditional interview view community various."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
