@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Green",
+    "age": 59,
+    "address": {
+        "street": "Timothy Row",
+        "city": "South Kyleborough",
+        "state": "Montana",
+        "zip": "56648"
+    },
+    "contact": {
+        "phone": "(463)860-1911",
+        "servicePhone": "800136481"
+    },
+    "birthday": "1966-24-09",
+    "ip": "153.13.212.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Store off market who treatment yeah. Order couple during inside leave sister. Pick article economy leader nice.\nReady can drop shoulder with modern position. Own open reduce item.",
+        "bio": "Knowledge work her model support. Care western cause light series. Page military type heavy lawyer agree.\nAnalysis either decision then draw number wall. Seem along quickly drive. Bar item hold."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
