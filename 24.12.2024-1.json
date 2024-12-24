@@ -1,0 +1,25 @@
+{
+    "name": "Holly Smith",
+    "age": 44,
+    "address": {
+        "street": "Robert Mews",
+        "city": "North Erica",
+        "state": "Illinois",
+        "zip": "88469"
+    },
+    "contact": {
+        "phone": "001-218-413-4313",
+        "servicePhone": "800153280"
+    },
+    "birthday": "1981-04-02",
+    "ip": "139.118.182.251",
+    "foo": "bar",
+    "profile": {
+        "about": "If begin production spend sign claim. Dog live how rich defense voice although.\nOr local close experience. Authority return rock water certain behind.",
+        "bio": "We effort work grow. Whole than firm especially.\nThrow pressure analysis debate hotel. Nearly ready training war dog themselves house. Thousand worker learn."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
