@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Ramirez",
+    "age": 3,
+    "address": {
+        "street": "Rachel Coves",
+        "city": "Philipberg",
+        "state": "Kentucky",
+        "zip": "72910"
+    },
+    "contact": {
+        "phone": "460-728-6983",
+        "servicePhone": "800653407"
+    },
+    "birthday": "2022-28-10",
+    "ip": "151.73.191.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Into small every one. Half or police wish Democrat car treat.\nProve adult call late. Mother those final cut purpose I. Despite difficult relationship available before pass.",
+        "bio": "Different admit our rest available. Return interest high soon anyone law benefit. Go thought early owner lose amount.\nConsumer true another enough protect list house."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
