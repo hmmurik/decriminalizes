@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Campbell",
+    "age": 22,
+    "address": {
+        "street": "William Villages",
+        "city": "Port Jon",
+        "state": "Oklahoma",
+        "zip": "14182"
+    },
+    "contact": {
+        "phone": "342.928.4309x474",
+        "servicePhone": "800804141"
+    },
+    "birthday": "2003-07-03",
+    "ip": "201.53.37.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Long so me land these. Rather free size question its peace.\nParticularly modern computer boy Mrs. Size again star student popular follow.",
+        "bio": "Federal goal defense. Company newspaper eight usually.\nEnvironment board discuss along offer sport newspaper. Fight drug allow who skin. Director we those before spend husband."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
