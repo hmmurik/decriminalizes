@@ -1,0 +1,25 @@
+{
+    "name": "Janice Keith",
+    "age": 37,
+    "address": {
+        "street": "Mills Road",
+        "city": "Port Nathan",
+        "state": "Wisconsin",
+        "zip": "25831"
+    },
+    "contact": {
+        "phone": "(594)219-9799x11046",
+        "servicePhone": "800233612"
+    },
+    "birthday": "1988-22-05",
+    "ip": "12.160.37.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Try ball customer form well.\nRange different itself group offer. Kid decide determine.",
+        "bio": "Knowledge send record one arm. About north risk he service.\nManagement kitchen candidate significant establish quality together. Poor yeah reduce."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
