@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Brooks",
+    "age": 19,
+    "address": {
+        "street": "Brenda Forges",
+        "city": "Port Elizabethborough",
+        "state": "Oklahoma",
+        "zip": "34666"
+    },
+    "contact": {
+        "phone": "848.368.7200",
+        "servicePhone": "800752680"
+    },
+    "birthday": "2006-14-12",
+    "ip": "211.9.59.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Land class sea nation student clear. Keep book grow other officer thing cause.\nAgency pull collection happy.\nSit else gas guy. Newspaper note their federal event. Over local class feeling.",
+        "bio": "Assume moment go tell type. Hard bill level mission building.\nPast space finish score goal commercial concern. Fact research hard ten receive."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
