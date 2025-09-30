@@ -1,0 +1,25 @@
+{
+    "name": "Katie Berry",
+    "age": 107,
+    "address": {
+        "street": "Cervantes Gateway",
+        "city": "New Danielle",
+        "state": "Louisiana",
+        "zip": "15733"
+    },
+    "contact": {
+        "phone": "001-351-476-4333x107",
+        "servicePhone": "800757984"
+    },
+    "birthday": "1918-04-08",
+    "ip": "139.122.129.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Military media debate easy that. Bad wear western determine. We myself save against consumer season.",
+        "bio": "Our either he. Recent present evening reality boy shake church. Sister soon resource various simple across image treatment. Admit rate eight people fact."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
