@@ -1,0 +1,25 @@
+{
+    "name": "Bill Hicks",
+    "age": 40,
+    "address": {
+        "street": "Tucker Flats",
+        "city": "Hernandezborough",
+        "state": "Missouri",
+        "zip": "72012"
+    },
+    "contact": {
+        "phone": "7657623624",
+        "servicePhone": "800591226"
+    },
+    "birthday": "1985-05-03",
+    "ip": "1.32.140.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Major figure end share. Write analysis field start kitchen civil sit.\nMovie include car law from body yeah. Republican team on model. Culture what must experience while style them yet.",
+        "bio": "Stay word main stuff. Return notice seem side age. Either wife generation then media big reality."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

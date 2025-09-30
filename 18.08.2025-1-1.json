@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Campbell",
+    "age": 23,
+    "address": {
+        "street": "Dickerson Avenue",
+        "city": "South Philipmouth",
+        "state": "Alaska",
+        "zip": "11825"
+    },
+    "contact": {
+        "phone": "439-777-0271",
+        "servicePhone": "800676504"
+    },
+    "birthday": "2002-22-07",
+    "ip": "79.201.118.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace anything economic response such industry. Yourself easy lawyer need. Effect rock reflect goal. Those but after.",
+        "bio": "Quite offer toward public. Draw yeah hot inside situation."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
