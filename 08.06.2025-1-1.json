@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Lee",
+    "age": 54,
+    "address": {
+        "street": "Baker Plains",
+        "city": "West Alexstad",
+        "state": "Colorado",
+        "zip": "63014"
+    },
+    "contact": {
+        "phone": "001-439-294-6438x51792",
+        "servicePhone": "800673407"
+    },
+    "birthday": "1971-27-04",
+    "ip": "177.245.22.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry benefit member through fact newspaper. Pattern student while camera.\nThe save about police many car get. History economy under beautiful team.",
+        "bio": "Social line performance upon the. Capital computer true still against see report wall.\nDefense picture tend decision. East measure trial know."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

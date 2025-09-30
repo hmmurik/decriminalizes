@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Holt",
+    "age": 77,
+    "address": {
+        "street": "Miller Hollow",
+        "city": "Westshire",
+        "state": "Colorado",
+        "zip": "56030"
+    },
+    "contact": {
+        "phone": "+1-415-363-9420x0438",
+        "servicePhone": "800770851"
+    },
+    "birthday": "1948-15-12",
+    "ip": "52.251.116.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur fact character teacher although husband. Cup light building once use.\nCountry within apply describe wish it indicate. Heart top agency right now country. Young top occur sing.",
+        "bio": "Happy floor involve be. South decade under.\nService establish risk or deal claim thing. Law everything check catch memory later stuff. All his offer project to performance."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Chandler",
+    "age": 93,
+    "address": {
+        "street": "Dawn Island",
+        "city": "Whiteberg",
+        "state": "New Mexico",
+        "zip": "14202"
+    },
+    "contact": {
+        "phone": "+1-463-964-1232x63203",
+        "servicePhone": "800195743"
+    },
+    "birthday": "1932-02-04",
+    "ip": "153.174.203.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Old city much no today. Spring there bed without audience several far. Suddenly time pull vote southern.\nSoldier evidence black poor computer mother. Baby all apply hospital.",
+        "bio": "However responsibility message part realize improve. Name group toward computer have book foot. Sure when painting change care.\nDevelop as western produce late behind. Likely much cell."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
