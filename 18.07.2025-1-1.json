@@ -1,0 +1,25 @@
+{
+    "name": "Paul Johnson",
+    "age": 40,
+    "address": {
+        "street": "Webster Brook",
+        "city": "Lake Martinborough",
+        "state": "Florida",
+        "zip": "92079"
+    },
+    "contact": {
+        "phone": "575-980-2036x6326",
+        "servicePhone": "800837747"
+    },
+    "birthday": "1985-30-10",
+    "ip": "58.93.87.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Down education black sign. Stand wonder strategy people author show reason.\nSpeak its figure board would. Recently according everybody she budget agent report.",
+        "bio": "Pay listen western make environmental success. Certainly administration state speech trip sort. Capital end sister bill truth either."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
