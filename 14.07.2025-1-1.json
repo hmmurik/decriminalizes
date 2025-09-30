@@ -1,0 +1,25 @@
+{
+    "name": "Roy Nelson",
+    "age": 70,
+    "address": {
+        "street": "Conner Rapid",
+        "city": "Lake Aaronton",
+        "state": "Colorado",
+        "zip": "81908"
+    },
+    "contact": {
+        "phone": "9244498312",
+        "servicePhone": "800963157"
+    },
+    "birthday": "1955-11-10",
+    "ip": "130.41.77.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally author me move else. Manage hold get hour religious position.\nStage lot claim organization raise. Food huge use summer become nearly. Successful method high clearly past spring.",
+        "bio": "Contain prepare along commercial series agency class. Brother side water. Down executive stay environmental."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
